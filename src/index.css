@@ -5,6 +5,7 @@
 
 body {
   font-family: sans-serif;
+  background-color: #7950f2;
   color: #333;
 }
 
@@ -88,5 +89,5 @@ h3 {
 }
 
 .close:hover {
-  color: #7950f2;
+  color: #ffffff;
 }
